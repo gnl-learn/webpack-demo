@@ -1,0 +1,13 @@
+$width: 400px;
+$height: 400px;
+$color: white;
+$background: black;
+
+#box-sass {
+  width: $width;
+  height: $height;
+  color: $color;
+  background: $background;
+  display: flex;
+  backface-visibility: hidden;
+}

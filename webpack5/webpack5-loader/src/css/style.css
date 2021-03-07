@@ -1,0 +1,30 @@
+#box-css {
+    width: 200px;
+    height: 200px;
+    color: cornflowerblue;
+    background: aliceblue;
+    display: flex;
+    backface-visibility: hidden;
+}
+
+#img1 {
+    width: 400px;
+    height: 400px;
+    background-image: url("../img/0.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+#img2 {
+    width: 400px;
+    height: 400px;
+    background-image: url("../img/1.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+#img3 {
+    width: 400px;
+    height: 400px;
+    background-image: url("../img/2.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}

@@ -1,0 +1,1 @@
+console.log('这是页面需要用到的js文件 ===> index.js')

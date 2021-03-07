@@ -1,0 +1,1 @@
+console.log('这是通用jquery文件。。。')
